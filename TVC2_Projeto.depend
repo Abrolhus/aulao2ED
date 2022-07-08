@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1570971016 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1570970301 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\listacont.h
+
+1570976101 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1570971766 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\listadupla.h
+	"NoDuplo.h"
+
+1559260937 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\noduplo.h
+
+1570976459 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1570973933 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\listaencad.h
+	"No.h"
+
+1559261250 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\no.h
+
+1559262898 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1559261286 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\pilhaencad.h
+	"No.h"
+
+1570976433 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto\main.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+	"ListaCont.h"
+	"ListaEncad.h"
+	"ListaDupla.h"
+
+1571015580 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1570973933 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\listaencad.h
+	"No.h"
+
+1559261250 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\no.h
+
+1570976573 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\main.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+	"ListaCont.h"
+	"ListaEncad.h"
+	"ListaDupla.h"
+
+1559261286 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\pilhaencad.h
+	"No.h"
+
+1571015025 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\listacont.h
+
+1571015377 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\listadupla.h
+	"NoDuplo.h"
+
+1559260937 d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\noduplo.h
+
+1559262898 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1571015032 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1571015541 source:d:\dropbox\edlab2ufjf\tvcs\tvc2_projeto_gabarito\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
